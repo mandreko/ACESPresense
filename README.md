@@ -3,7 +3,9 @@ This repository contains KiCAD 7.0 files for a standalone PCB which allows ESPre
 
 ## BOM
 If you'd like to build this yourself, the components are listed here: 
+
 Electrical components: https://octopart.com/bom-tool/W4l4qdsA
+
 Polycase enclosure: https://www.polycase.com/pm2414
 
 ## License
